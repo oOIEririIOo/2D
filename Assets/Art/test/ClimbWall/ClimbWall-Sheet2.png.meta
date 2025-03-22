@@ -1,0 +1,693 @@
+fileFormatVersion: 2
+guid: 2ac5a2e83b0af85479c702f98d9e09b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1318590570617520873
+    second: ClimbWall-Sheet2_0
+  - first:
+      213: 7604608439716514715
+    second: ClimbWall-Sheet2_1
+  - first:
+      213: 1638801742289928835
+    second: ClimbWall-Sheet2_2
+  - first:
+      213: -8095357408684623601
+    second: ClimbWall-Sheet2_3
+  - first:
+      213: -3288524075152844721
+    second: ClimbWall-Sheet2_4
+  - first:
+      213: -2490636865772734799
+    second: ClimbWall-Sheet2_5
+  - first:
+      213: -2778884326310397885
+    second: ClimbWall-Sheet2_6
+  - first:
+      213: 8640118800452604568
+    second: ClimbWall-Sheet2_7
+  - first:
+      213: -6085928530548809026
+    second: ClimbWall-Sheet2_8
+  - first:
+      213: 6140242417437616537
+    second: ClimbWall-Sheet2_9
+  - first:
+      213: 7337526498505574326
+    second: ClimbWall-Sheet2_10
+  - first:
+      213: -9017465170327580497
+    second: ClimbWall-Sheet2_11
+  - first:
+      213: 2352589959874314956
+    second: ClimbWall-Sheet2_12
+  - first:
+      213: -7182168296847184150
+    second: ClimbWall-Sheet2_13
+  - first:
+      213: -4859170824615763400
+    second: ClimbWall-Sheet2_14
+  - first:
+      213: 2649050801986796911
+    second: ClimbWall-Sheet2_15
+  - first:
+      213: -4795955197551929050
+    second: ClimbWall-Sheet2_16
+  - first:
+      213: 1593625796169523784
+    second: ClimbWall-Sheet2_17
+  - first:
+      213: -2772276218981109162
+    second: ClimbWall-Sheet2_18
+  - first:
+      213: 6790032158978118128
+    second: ClimbWall-Sheet2_19
+  - first:
+      213: -2375760097049082810
+    second: ClimbWall-Sheet2_20
+  - first:
+      213: -509241170327796809
+    second: ClimbWall-Sheet2_21
+  - first:
+      213: 4975058388001816157
+    second: ClimbWall-Sheet2_22
+  - first:
+      213: -4071324575961806036
+    second: ClimbWall-Sheet2_23
+  - first:
+      213: -4701116338934337639
+    second: ClimbWall-Sheet2_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71db92abcdc63bde0800000000000000
+      internalID: -1318590570617520873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b8d31c51ff88960800000000000000
+      internalID: 7604608439716514715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3828b7a70813eb610800000000000000
+      internalID: 1638801742289928835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09b68de35387af80800000000000000
+      internalID: -8095357408684623601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48d139e6c0dc52d0800000000000000
+      internalID: -3288524075152844721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6bf1f67fa7f6dd0800000000000000
+      internalID: -2490636865772734799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3483e5aad6b6f69d0800000000000000
+      internalID: -2778884326310397885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892d62e854ed7e770800000000000000
+      internalID: 8640118800452604568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb229300f307a8ba0800000000000000
+      internalID: -6085928530548809026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999a72e32f5863550800000000000000
+      internalID: 6140242417437616537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7c079797124d560800000000000000
+      internalID: 7337526498505574326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0da2444378bd280800000000000000
+      internalID: -9017465170327580497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2857c9a1416a020800000000000000
+      internalID: 2352589959874314956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeee95d9cffc35c90800000000000000
+      internalID: -7182168296847184150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832e5d741e1c09cb0800000000000000
+      internalID: -4859170824615763400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6df26c4ba153c420800000000000000
+      internalID: 2649050801986796911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6299a3b6828517db0800000000000000
+      internalID: -4795955197551929050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842659dd732bd1610800000000000000
+      internalID: 1593625796169523784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6523e5c8775e689d0800000000000000
+      internalID: -2772276218981109162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f19e51064a0b3e50800000000000000
+      internalID: 6790032158978118128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64487df67ca970fd0800000000000000
+      internalID: -2375760097049082810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b38b998adfcee8f0800000000000000
+      internalID: -509241170327796809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbWall-Sheet2_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5961704, y: 0.5212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5efca1be35fa0540800000000000000
+      internalID: 4975058388001816157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7663b41ad43fb5841b024a4fc1fd20f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ClimbWall-Sheet2_0: -1318590570617520873
+      ClimbWall-Sheet2_1: 7604608439716514715
+      ClimbWall-Sheet2_10: 7337526498505574326
+      ClimbWall-Sheet2_11: -9017465170327580497
+      ClimbWall-Sheet2_12: 2352589959874314956
+      ClimbWall-Sheet2_13: -7182168296847184150
+      ClimbWall-Sheet2_14: -4859170824615763400
+      ClimbWall-Sheet2_15: 2649050801986796911
+      ClimbWall-Sheet2_16: -4795955197551929050
+      ClimbWall-Sheet2_17: 1593625796169523784
+      ClimbWall-Sheet2_18: -2772276218981109162
+      ClimbWall-Sheet2_19: 6790032158978118128
+      ClimbWall-Sheet2_2: 1638801742289928835
+      ClimbWall-Sheet2_20: -2375760097049082810
+      ClimbWall-Sheet2_21: -509241170327796809
+      ClimbWall-Sheet2_22: 4975058388001816157
+      ClimbWall-Sheet2_3: -8095357408684623601
+      ClimbWall-Sheet2_4: -3288524075152844721
+      ClimbWall-Sheet2_5: -2490636865772734799
+      ClimbWall-Sheet2_6: -2778884326310397885
+      ClimbWall-Sheet2_7: 8640118800452604568
+      ClimbWall-Sheet2_8: -6085928530548809026
+      ClimbWall-Sheet2_9: 6140242417437616537
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

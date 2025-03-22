@@ -1,0 +1,590 @@
+fileFormatVersion: 2
+guid: 828da31e52d7593488e24b8c586c77cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6148489691568934718
+    second: AttackBuff-Sheet_0
+  - first:
+      213: -2438232357973814268
+    second: AttackBuff-Sheet_1
+  - first:
+      213: -204606770316519688
+    second: AttackBuff-Sheet_2
+  - first:
+      213: 8994404355477654069
+    second: AttackBuff-Sheet_3
+  - first:
+      213: 5649947728524859732
+    second: AttackBuff-Sheet_4
+  - first:
+      213: 2492473208967938756
+    second: AttackBuff-Sheet_5
+  - first:
+      213: 2532981745570009282
+    second: AttackBuff-Sheet_6
+  - first:
+      213: 5243647894020431355
+    second: AttackBuff-Sheet_7
+  - first:
+      213: -7756912235070875560
+    second: AttackBuff-Sheet_8
+  - first:
+      213: 6021688059898476253
+    second: AttackBuff-Sheet_9
+  - first:
+      213: -1817305204361167039
+    second: AttackBuff-Sheet_10
+  - first:
+      213: 5819583153549221357
+    second: AttackBuff-Sheet_11
+  - first:
+      213: 3070653469001646988
+    second: AttackBuff-Sheet_12
+  - first:
+      213: -5813671851473256020
+    second: AttackBuff-Sheet_13
+  - first:
+      213: 7833318146634429622
+    second: AttackBuff-Sheet_14
+  - first:
+      213: 2992047905771993275
+    second: AttackBuff-Sheet_15
+  - first:
+      213: 2006641737442271594
+    second: AttackBuff-Sheet_16
+  - first:
+      213: 4613092168621275768
+    second: AttackBuff-Sheet_17
+  - first:
+      213: 5018720256387669933
+    second: AttackBuff-Sheet_18
+  - first:
+      213: -8961911009962468785
+    second: AttackBuff-Sheet_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f0e136cc2d35550800000000000000
+      internalID: 6148489691568934718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4049b17b698a92ed0800000000000000
+      internalID: -2438232357973814268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 432
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6d4a8f937192df0800000000000000
+      internalID: -204606770316519688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ac87e5b1b82dc70800000000000000
+      internalID: 8994404355477654069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 432
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459df3e3685a86e40800000000000000
+      internalID: 5649947728524859732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c246b88d2b079220800000000000000
+      internalID: 2492473208967938756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0df3f2a75f62320800000000000000
+      internalID: 2532981745570009282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd10524afd25c840800000000000000
+      internalID: 5243647894020431355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85818ba8b69e95490800000000000000
+      internalID: -7756912235070875560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6b57ed265519350800000000000000
+      internalID: 6021688059898476253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f759d8b82a7c6e0800000000000000
+      internalID: -1817305204361167039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded16207b0053c050800000000000000
+      internalID: 5819583153549221357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c830a20af072d9a20800000000000000
+      internalID: 3070653469001646988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1cf34d040b15fa0800000000000000
+      internalID: -5813671851473256020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 144
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b434c60a5985bc60800000000000000
+      internalID: 7833318146634429622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8bd7eb7b3e58920800000000000000
+      internalID: 2992047905771993275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6128bf470609db10800000000000000
+      internalID: 2006641737442271594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87abecad2eef40040800000000000000
+      internalID: 4613092168621275768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackBuff-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf5b0d9b7316a540800000000000000
+      internalID: 5018720256387669933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 03ef303d5373b224294b12750fe135f4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AttackBuff-Sheet_0: 6148489691568934718
+      AttackBuff-Sheet_1: -2438232357973814268
+      AttackBuff-Sheet_10: -1817305204361167039
+      AttackBuff-Sheet_11: 5819583153549221357
+      AttackBuff-Sheet_12: 3070653469001646988
+      AttackBuff-Sheet_13: -5813671851473256020
+      AttackBuff-Sheet_14: 7833318146634429622
+      AttackBuff-Sheet_15: 2992047905771993275
+      AttackBuff-Sheet_16: 2006641737442271594
+      AttackBuff-Sheet_17: 4613092168621275768
+      AttackBuff-Sheet_18: 5018720256387669933
+      AttackBuff-Sheet_2: -204606770316519688
+      AttackBuff-Sheet_3: 8994404355477654069
+      AttackBuff-Sheet_4: 5649947728524859732
+      AttackBuff-Sheet_5: 2492473208967938756
+      AttackBuff-Sheet_6: 2532981745570009282
+      AttackBuff-Sheet_7: 5243647894020431355
+      AttackBuff-Sheet_8: -7756912235070875560
+      AttackBuff-Sheet_9: 6021688059898476253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

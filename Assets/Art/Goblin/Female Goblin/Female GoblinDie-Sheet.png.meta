@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 681b81e5cd3c4354fbf398f05678dbed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1082027689260670139
+    second: Female GoblinDie-Sheet_0
+  - first:
+      213: 5855454090305888085
+    second: Female GoblinDie-Sheet_1
+  - first:
+      213: 8610228630652679000
+    second: Female GoblinDie-Sheet_2
+  - first:
+      213: -4742888783444367541
+    second: Female GoblinDie-Sheet_3
+  - first:
+      213: 6097929760277248676
+    second: Female GoblinDie-Sheet_4
+  - first:
+      213: -4833635770206493589
+    second: Female GoblinDie-Sheet_5
+  - first:
+      213: -934202358139066888
+    second: Female GoblinDie-Sheet_6
+  - first:
+      213: 6903464385659701922
+    second: Female GoblinDie-Sheet_7
+  - first:
+      213: 6970929090758525428
+    second: Female GoblinDie-Sheet_8
+  - first:
+      213: 3506991854146280238
+    second: Female GoblinDie-Sheet_9
+  - first:
+      213: -5870863024098244657
+    second: Female GoblinDie-Sheet_10
+  - first:
+      213: 8122177223376843184
+    second: Female GoblinDie-Sheet_11
+  - first:
+      213: 470884757397937054
+    second: Female GoblinDie-Sheet_12
+  - first:
+      213: -3844471658407827322
+    second: Female GoblinDie-Sheet_13
+  - first:
+      213: 2169473262019036401
+    second: Female GoblinDie-Sheet_14
+  - first:
+      213: 2271744536787849072
+    second: Female GoblinDie-Sheet_15
+  - first:
+      213: 4954768771848355903
+    second: Female GoblinDie-Sheet_16
+  - first:
+      213: -4039067017709606806
+    second: Female GoblinDie-Sheet_17
+  - first:
+      213: 6352898015897302119
+    second: Female GoblinDie-Sheet_18
+  - first:
+      213: -1236704247116965316
+    second: Female GoblinDie-Sheet_19
+  - first:
+      213: -6290974471984006340
+    second: Female GoblinDie-Sheet_20
+  - first:
+      213: 9092346063104231153
+    second: Female GoblinDie-Sheet_21
+  - first:
+      213: 248833475959221678
+    second: Female GoblinDie-Sheet_22
+  - first:
+      213: -1746840091880056463
+    second: Female GoblinDie-Sheet_23
+  - first:
+      213: 5243973720099932459
+    second: Female GoblinDie-Sheet_24
+  - first:
+      213: -8834134654762429136
+    second: Female GoblinDie-Sheet_25
+  - first:
+      213: 8081190486942173800
+    second: Female GoblinDie-Sheet_26
+  - first:
+      213: 2629007195787032162
+    second: Female GoblinDie-Sheet_27
+  - first:
+      213: 5226398219817277063
+    second: Female GoblinDie-Sheet_28
+  - first:
+      213: -2798512004138746760
+    second: Female GoblinDie-Sheet_29
+  - first:
+      213: 4920404801863642494
+    second: Female GoblinDie-Sheet_30
+  - first:
+      213: -9000416007044962447
+    second: Female GoblinDie-Sheet_31
+  - first:
+      213: 6539520989522597835
+    second: Female GoblinDie-Sheet_32
+  - first:
+      213: -3518832267854075999
+    second: Female GoblinDie-Sheet_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcd4875372240f00800000000000000
+      internalID: 1082027689260670139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 156
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f5a4bb870c24150800000000000000
+      internalID: 5855454090305888085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 156
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85373f4125dad7770800000000000000
+      internalID: 8610228630652679000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 156
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b472d95c7cfdd2eb0800000000000000
+      internalID: -4742888783444367541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 156
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aabb9a0fc230a450800000000000000
+      internalID: 6097929760277248676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 156
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64683f60e97becb0800000000000000
+      internalID: -4833635770206493589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 156
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5e9c6a7eb0903f0800000000000000
+      internalID: -934202358139066888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 156
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa8eca58480ecf50800000000000000
+      internalID: 6903464385659701922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 156
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f149111317bdb060800000000000000
+      internalID: 6970929090758525428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 156
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bd390b2865ba030800000000000000
+      internalID: 3506991854146280238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc706ab4f21868ea0800000000000000
+      internalID: -5870863024098244657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1352ac625c7b070800000000000000
+      internalID: 8122177223376843184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b99d6213be88600800000000000000
+      internalID: 470884757397937054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6886b834561b5aac0800000000000000
+      internalID: -3844471658407827322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f44a5cff648b1e10800000000000000
+      internalID: 2169473262019036401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f8ca7be9bd68f10800000000000000
+      internalID: 2271744536787849072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female GoblinDie-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 192
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30483e42ffd2c440800000000000000
+      internalID: 4954768771848355903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 24d2221032527b04c9e3a8004da12cca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Female GoblinDie-Sheet_0: 1082027689260670139
+      Female GoblinDie-Sheet_1: 5855454090305888085
+      Female GoblinDie-Sheet_10: -5870863024098244657
+      Female GoblinDie-Sheet_11: 8122177223376843184
+      Female GoblinDie-Sheet_12: 470884757397937054
+      Female GoblinDie-Sheet_13: -3844471658407827322
+      Female GoblinDie-Sheet_14: 2169473262019036401
+      Female GoblinDie-Sheet_15: 2271744536787849072
+      Female GoblinDie-Sheet_16: 4954768771848355903
+      Female GoblinDie-Sheet_2: 8610228630652679000
+      Female GoblinDie-Sheet_3: -4742888783444367541
+      Female GoblinDie-Sheet_4: 6097929760277248676
+      Female GoblinDie-Sheet_5: -4833635770206493589
+      Female GoblinDie-Sheet_6: -934202358139066888
+      Female GoblinDie-Sheet_7: 6903464385659701922
+      Female GoblinDie-Sheet_8: 6970929090758525428
+      Female GoblinDie-Sheet_9: 3506991854146280238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

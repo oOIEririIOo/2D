@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 5e942e1c9f1cde341a0bb9d0c3fa4138
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4072529017225193683
+    second: ShieldBufft_0
+  - first:
+      213: 518527237371730390
+    second: ShieldBufft_1
+  - first:
+      213: 9148023107776232632
+    second: ShieldBufft_2
+  - first:
+      213: -8873087623227305259
+    second: ShieldBufft_3
+  - first:
+      213: 3726858607689984292
+    second: ShieldBufft_4
+  - first:
+      213: 2171668530932524719
+    second: ShieldBufft_5
+  - first:
+      213: -7626688562918684238
+    second: ShieldBufft_6
+  - first:
+      213: 8584662713621249662
+    second: ShieldBufft_7
+  - first:
+      213: 3200731050123299275
+    second: ShieldBufft_8
+  - first:
+      213: 1133747681664720472
+    second: ShieldBufft_9
+  - first:
+      213: -925997272181655086
+    second: ShieldBufft_10
+  - first:
+      213: 7724309610821598320
+    second: ShieldBufft_11
+  - first:
+      213: 9213020131392578973
+    second: ShieldBufft_12
+  - first:
+      213: 2497489374017265938
+    second: ShieldBufft_13
+  - first:
+      213: 918043715065360662
+    second: ShieldBufft_14
+  - first:
+      213: -6536991947809854185
+    second: ShieldBufft_15
+  - first:
+      213: 7181737168030839091
+    second: ShieldBufft_16
+  - first:
+      213: 356975973206273547
+    second: ShieldBufft_17
+  - first:
+      213: 20699834669786817
+    second: ShieldBufft_18
+  - first:
+      213: 8362491416209672148
+    second: ShieldBufft_19
+  - first:
+      213: 4780550604220509924
+    second: ShieldBufft_20
+  - first:
+      213: -7334877194024541559
+    second: ShieldBufft_21
+  - first:
+      213: 2425643177092767146
+    second: ShieldBufft_22
+  - first:
+      213: 2417045400543161619
+    second: ShieldBufft_23
+  - first:
+      213: 1366715595357404530
+    second: ShieldBufft_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShieldBufft_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2752de9f687b77c0800000000000000
+      internalID: -4072529017225193683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d918ed66cd223700800000000000000
+      internalID: 518527237371730390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 432
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc31185c8e44fe70800000000000000
+      internalID: 9148023107776232632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d21f9c71d57cd480800000000000000
+      internalID: -8873087623227305259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 432
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429e77f682678b330800000000000000
+      internalID: 3726858607689984292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6a02cd501532e10800000000000000
+      internalID: 2171668530932524719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b982b2f82f882690800000000000000
+      internalID: -7626688562918684238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e7fe92149d22770800000000000000
+      internalID: 8584662713621249662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc989209ee74b6c20800000000000000
+      internalID: 3200731050123299275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e5c867281ebbf00800000000000000
+      internalID: 1133747681664720472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9b1a813623623f0800000000000000
+      internalID: -925997272181655086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c38287aa2423b60800000000000000
+      internalID: 7724309610821598320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d956d203ff83bdf70800000000000000
+      internalID: 9213020131392578973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211ac987a5dd8a220800000000000000
+      internalID: 2497489374017265938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 144
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61130c415eb8dbc00800000000000000
+      internalID: 918043715065360662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d643b3570f745a0800000000000000
+      internalID: -6536991947809854185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBufft_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527, y: 0.479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331b2b267e7aaa360800000000000000
+      internalID: 7181737168030839091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b3f9b5b335fd94b428462804a4d1dfe6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShieldBufft_0: -4072529017225193683
+      ShieldBufft_1: 518527237371730390
+      ShieldBufft_10: -925997272181655086
+      ShieldBufft_11: 7724309610821598320
+      ShieldBufft_12: 9213020131392578973
+      ShieldBufft_13: 2497489374017265938
+      ShieldBufft_14: 918043715065360662
+      ShieldBufft_15: -6536991947809854185
+      ShieldBufft_16: 7181737168030839091
+      ShieldBufft_2: 9148023107776232632
+      ShieldBufft_3: -8873087623227305259
+      ShieldBufft_4: 3726858607689984292
+      ShieldBufft_5: 2171668530932524719
+      ShieldBufft_6: -7626688562918684238
+      ShieldBufft_7: 8584662713621249662
+      ShieldBufft_8: 3200731050123299275
+      ShieldBufft_9: 1133747681664720472
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
